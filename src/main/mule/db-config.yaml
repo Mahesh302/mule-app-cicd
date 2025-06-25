@@ -1,0 +1,8 @@
+database:
+  host: "mysql-2cef4960-upparimaheshsagar2427-fe89.l.aivencloud.com"
+  port: "17823"  # Change this for PostgreSQL, MSSQL, etc.
+  
+  username: "avnadmin"
+  password: "AVNS_AWWwFhkoQjd11hhxWNn"
+  database: "defaultdb"
+
